@@ -96,8 +96,13 @@ This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
 
 **Unlock Jenkins:**
 Access the address to access **Jenkins**  http://localhost:8080/
+
 **Step 1:** Paste the Administrator password you copied into the Administrator password field > click **Continue**
+
 **Step 2:** In the **Customize Jenkins** tab select **Install suggested plugins** > 
+
 **Step 3:** Wait for Jenkins to download the plugins > 
+
 **Step 4:** In the Create First Admin User tab, enter the relevant information > click **Save and Continue** >
+
 **Step 5:** Click **Save and Finish** > click **Start using Jenkins** > Done!
