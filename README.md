@@ -40,7 +40,7 @@ Password: root
 
 **Step 3:** Open your terminal and enter command
 ```sh
-docker interpise stacks-postgresql-1
+docker inspect stacks-postgresql-1
 ```
 copy the value of **"IPAddress"**, it has the format like ***172.21.0.5***, it may be different on your machine >
 
