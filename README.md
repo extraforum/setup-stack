@@ -13,12 +13,12 @@ https://www.docker.com/
 ```
 [Go to Docker website](https://www.docker.com/)
 ## download and install docker desktop
-To check if **docker** has been successfully installed on your machine, use the command
+To check if **docker** has been successfully installed on your machine, use the command:
 ```sh
 docker --version
 ```
 # 2. Install stacks with Docker
-Clone this repository to your computer then install the stack using the command:
+Clone this [repository](https://github.com/extraforum/setup-stack) to your computer then install the stack using the command:
 ```sh
 docker compose up
 ```
